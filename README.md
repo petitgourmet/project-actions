@@ -13,7 +13,7 @@
     docker tag java-app demo-app:java-1.0
 
 
-
+<hr>
 
 #### Links for the GitHub Actions video
 
